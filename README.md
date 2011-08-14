@@ -1,0 +1,1 @@
+This app will provide the Reading, Events, Members and Classifieds portions of the Appsterdam.rs website in a mobile format.
