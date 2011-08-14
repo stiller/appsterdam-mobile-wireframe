@@ -65,16 +65,7 @@ body {
 }
 
 #content-main{
-}
-
-
-#logo{
-	text-align:center;
-	margin:0 auto;
-	width:200px;
-	height:170px;
-	float:left;
-
+	background: #d7d7d7 url('../img/background.jpg') top center no-repeat;
 }
 
 #sub-header{
@@ -86,7 +77,7 @@ body {
 
 .nav-glyphish-example .ui-btn .ui-btn-inner { padding-top: 40px !important; }
 .nav-glyphish-example .ui-btn .ui-icon { width: 30px!important; height: 30px!important; margin-left: -15px !important; box-shadow: none!important; -moz-box-shadow: none!important; -webkit-box-shadow: none!important; -webkit-border-radius: none !important; border-radius: none !important; }
-#search-icon .ui-icon { background:  url(../img/icons/06-magnify.png) 50% 50% no-repeat; background-size: 24px 22px; }
+#search-icon .ui-icon { background:  url(../img/icons/34-coffee.png) 50% 50% no-repeat; background-size: 24px 22px; }
 #options-icon .ui-icon { background:  url(..//img/icons/36-toolbox.png) 50% 50% no-repeat; background-size: 24px 16px;  }
 #instructions-icon .ui-icon { background:  url(..//img/icons/179-notepad.png) 50% 50% no-repeat;  background-size: 12px 26px; }
 #source-icon .ui-icon { background:  url(..//img/icons/157-wrench.png) 50% 50% no-repeat;  background-size: 22px 27px; }
